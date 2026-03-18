@@ -1,4 +1,5 @@
 @tool
+@icon("../icons/theme_icon_button.svg")
 class_name ThemeIconButton
 extends Button
 
