@@ -1,5 +1,5 @@
 @tool
-@icon("../icons/view_switcher.svg")
+@icon("../icons/view_switcher.png")
 class_name ViewSwitcher
 extends Control
 

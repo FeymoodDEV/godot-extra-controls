@@ -1,5 +1,5 @@
 @tool
-@icon("../icons/connection_line.svg")
+@icon("../icons/connection_line.png")
 class_name ConnectionLine
 extends Control
 
